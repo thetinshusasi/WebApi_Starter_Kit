@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{295AEC33-CB85-441C-839E-68D2D39B73FC}</ProjectGuid>
+    <ProjectGuid>{A6ED68C3-FDD5-4737-A4EE-6DD0D5DF73B4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WebAPI_Starter_Kit.Tests</RootNamespace>
-    <AssemblyName>WebAPI Starter Kit.Tests</AssemblyName>
+    <AssemblyName>WebAPI_Starter_Kit.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -52,9 +52,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WebAPI Starter Kit\WebAPI Starter Kit.csproj">
-      <Project>{54D77943-DB7A-44C6-85B8-3B8413704046}</Project>
-      <Name>WebAPI Starter Kit</Name>
+    <ProjectReference Include="..\WebAPI_Starter_Kit\WebAPI_Starter_Kit.csproj">
+      <Project>{4F67F351-6279-4353-A2DE-1CDB17A9C9CC}</Project>
+      <Name>WebAPI_Starter_Kit</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

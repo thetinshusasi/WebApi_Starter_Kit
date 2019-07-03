@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WebAPI Starter Kit.Tests")]
+[assembly: AssemblyTitle("WebAPI_Starter_Kit.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WebAPI Starter Kit.Tests")]
+[assembly: AssemblyProduct("WebAPI_Starter_Kit.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("295aec33-cb85-441c-839e-68d2d39b73fc")]
+[assembly: Guid("a6ed68c3-fdd5-4737-a4ee-6dd0d5df73b4")]
 
 // Version information for an assembly consists of the following four values:
 //
